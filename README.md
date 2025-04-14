@@ -1,0 +1,1 @@
+“Light switcher” is basically a project that involves using a pair of IR sensor and IR light bulb to connect 2 arduino boards, one of which will be used as the brains of the remote part and the other as the executor of the actual job, which is to power a stepper motor that is supposed to be mounted near a light switch so that it can flip it on and off
